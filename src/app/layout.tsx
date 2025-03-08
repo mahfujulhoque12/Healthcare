@@ -20,7 +20,6 @@ export default function RootLayout({
   
   children,
 }: Readonly<{
-  className:string
   children: React.ReactNode;
 }>) {
   return (
